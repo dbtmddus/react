@@ -1,0 +1,12 @@
+개발환경 설정
+1. "npx create-react-app 디렉토리명" : react 환경설정&프레임웤 설정  
+//2. "npm install @material-ui/core @material-ui/icons --save" : Material UI 설치
+
+
+기타 명령어
+"npm start" : 서버 실행
+# "npm run build" : 배포용 html 생성
+"npm install -g serve" : serve명령어로 웹서버 설치 가능
+"npx serve" : 웹서버 한번 실행
+# "npx serve -s build" : 빌드 디렉토리로 서버 실행
+
